@@ -1,0 +1,7 @@
+{
+  "name": "ETApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
