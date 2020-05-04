@@ -1,0 +1,24 @@
+.head{
+    background-color: #B2B1CF;
+    padding: 15px;
+}
+.entry {
+  background-color: #CAE5FF ;
+  padding: 15px;
+
+}
+.dateEntry{
+    background-color: #B2B1CF ;
+    padding: 10px;
+}
+.dateEntry2{
+    background-color: #B2B1CF ;
+    padding: 10px;
+}
+.feelings{
+    background-color: #6A8EAE ;
+    padding:10px;
+}
+.icon{
+    background-color: #273043 ;
+}
